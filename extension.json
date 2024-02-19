@@ -1,0 +1,9 @@
+{
+  "name": "Dart",
+  "version": "0.0.1",
+  "authors": [
+    "d1y <chenhonzho@gmail.com>"
+  ],
+  "description": "Provides dart syntax highlighting",
+  "repository": "https://github.com/d1y/dart.zed"
+}
